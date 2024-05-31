@@ -51,7 +51,7 @@
   <h2>🚀 Github Activity & Stats</h2>
   <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
   
-  ![snake gif](https://github.com/accursedgalaxy/accursedgalaxy/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake](https://github.com/<your-username>/<your-repo>/raw/output/github-contribution-grid-snake.gif)
 
 
   <table align="center" width="100%" height="100%">
