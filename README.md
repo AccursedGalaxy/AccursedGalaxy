@@ -1,6 +1,5 @@
 <div align="center">
     <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Robin;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
-    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
 <div align="center">
@@ -52,8 +51,8 @@
   <h2>🚀 Github Activity & Stats</h2>
   <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
   
-  <img src="https://github.com/accursedgalaxy/accursedgalaxy/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-  <img src="https://github.com/accursedgalaxy/accursedgalaxy/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+  ![snake gif](https://github.com/accursedgalaxy/accursedgalaxy/blob/output/github-contribution-grid-snake.gif)
+
 
   <table align="center" width="100%" height="100%">
     <tr>
