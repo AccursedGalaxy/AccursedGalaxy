@@ -6,7 +6,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>I'm a Software Engineering specialist at Accenture with Aus/EU citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p>
+    <p>I'm 22 year old upcoming software developer from Germany. I've been playing with computers from a young age and even in my gaming times I started porgramming mods and extensions for different games I was playing.</p>
 </div>
 
 <div align="center">
