@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Robin;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm..;Accursed+Galaxy..;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
 </div>
 
 <div align="center">
@@ -48,11 +48,8 @@
 
 
 <div align="center">
-  <h2>🚀 Github Activity & Stats</h2>
-  <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
-  
-![GitHub Snake](https://github.com/<your-username>/<your-repo>/raw/output/github-contribution-grid-snake.gif)
-
+  <h2>🚀 Github Stats</h2>
+  <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>  
 
   <table align="center" width="100%" height="100%">
     <tr>
