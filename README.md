@@ -34,15 +34,22 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
 </div>
 
-
 <h2 align="center" class="section-heading">🔧 Frameworks</h2>
 <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality:</p>
 <div align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <!-- Python Frameworks -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/CCXT-000000?style=for-the-badge&logo=ccxt&logoColor=white" alt="CCXT"/>
+  <img src="https://img.shields.io/badge/TA--Lib-0057A7?style=for-the-badge&logo=python&logoColor=white" alt="TA-Lib"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-00618F?style=for-the-badge&logo=python&logoColor=white" alt="SQLAlchemy"/>
+
+  <!-- Go CLI Tools -->
+  <img src="https://img.shields.io/badge/Cobra-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Cobra"/>
+  <img src="https://img.shields.io/badge/Viper-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Viper"/>
+  
+  <!-- Others -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
 
