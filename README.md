@@ -5,7 +5,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>I'm a 22-year-old aspiring software developer and crypto trader from Germany. My journey into technology began with gaming, where I developed mods and extensions for various games. Today, I'm focused on building tool sfor crypto traders and improving my programming skills.</p>
+    <p>I'm a 23-year-old aspiring software developer and crypto trader from Germany. My journey into technology began with gaming, where I developed mods and extensions for various games. Today, I'm focused on building tool sfor crypto traders and improving my programming skills.</p>
 </div>
 
 <div align="center">
