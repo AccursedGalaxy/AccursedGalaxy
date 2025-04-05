@@ -19,7 +19,7 @@ I build tools at the intersection of automation, terminal UX, and trading workfl
 Most of my work is written in Go or Python. I like shipping fast, building fun ideas, and learning by doing.
 </p>
 
-<div align="center">
+<div align="left">
   <strong>Projects I’m currently building:</strong>
 </div>
 
