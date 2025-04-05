@@ -1,7 +1,9 @@
 <div align="center">
-  <h1>
+  <h1>AccursedGalaxy</h1>
+  <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=33FF33&center=true&vCenter=true&width=800&lines=curl+accursedgalaxy.dev;Running+%22noidea+--dev%22...;Loading+CLI+tools%2C+dashboards%2C+vibes...;Welcome+to+my+GitHub+space." alt="Typing SVG">
-  </h1>
+  </p>
+  <hr width="70%">
 </div>
 
 ---
@@ -11,7 +13,7 @@
 </div>
 
 <p align="center">
-Yo — I’m Robin, a 23-year-old indie dev, sysadmin & crypto data nerd from Germany.  
+Yo — I'm Robin, a 23-year-old indie dev, sysadmin & crypto data nerd from Germany.  
 I build tools at the intersection of automation, terminal UX, and trading workflows.
 </p>
 
@@ -20,7 +22,7 @@ Most of my work is written in Go or Python. I like shipping fast, building fun i
 </p>
 
 <div align="left">
-  <strong>Projects I’m currently building:</strong>
+  <h3>Projects I'm currently building:</h3>
 </div>
 
 <ul>
@@ -34,16 +36,18 @@ Most of my work is written in Go or Python. I like shipping fast, building fun i
 <div align="center">
   <h2>🔗 Connect with Me</h2>
   <p>Reach out for collabs, nerdy convos, or feedback:</p>
-  <a href="https://de.linkedin.com/in/bohrer-robin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/accursedgalaxy">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://ko-fi.com/accursedgalaxy">
-    <img src="https://img.shields.io/badge/Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
-  </a>
-  <br/><br/>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://de.linkedin.com/in/bohrer-robin">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://github.com/accursedgalaxy">
+      <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://ko-fi.com/accursedgalaxy">
+      <img src="https://img.shields.io/badge/Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+    </a>
+  </div>
+  <p>I'm always looking for interesting projects to collaborate on or discuss.<br>Don't hesitate to reach out, especially if you're into dev tooling or crypto!</p>
   <img src="https://komarev.com/ghpvc/?username=accursedgalaxy&style=for-the-badge" alt="Profile views" />
 </div>
 
@@ -51,30 +55,35 @@ Most of my work is written in Go or Python. I like shipping fast, building fun i
 
 <div align="center">
   <h2>💻 Languages & Tools</h2>
+  <p>These are my daily drivers for building software:</p>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  </div>
+  <p>Python for rapid prototyping, Go for performance-critical services,<br>Bash for automation, and Lua for customizing my development environment.</p>
 </div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-</p>
 
 ---
 
 <div align="center">
   <h2>🧰 Frameworks & Libs</h2>
+  <p>The essential tools that power my projects:</p>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CCXT-000000?style=for-the-badge&logo=ccxt&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TA--Lib-0057A7?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQLAlchemy-00618F?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Cobra-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Viper-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  </div>
+  <p>
+    Pandas & TA-Lib for financial data analysis, CCXT for crypto exchange integrations,<br>
+    SQLAlchemy for database interactions, and Cobra/Viper for building robust CLI applications.
+  </p>
 </div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CCXT-000000?style=for-the-badge&logo=ccxt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TA--Lib-0057A7?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-00618F?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cobra-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Viper-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
 
 ---
 
