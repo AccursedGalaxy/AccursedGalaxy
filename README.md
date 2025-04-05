@@ -8,16 +8,30 @@
 
 <div align="center">
   <h2>🧠 About Me</h2>
-  <p>Yo — I’m Robin, a 23-year-old indie dev, system admin & crypto data nerd from Germany.</p>
-  <p>I’m currently building tools that sit at the intersection of trading, terminal UX, and automation. Most of my work happens in Go & Python, and I love crafting tiny things that punch above their weight.</p>
-  <p>Projects I’m working on include:</p>
-  <ul align="left">
-    <li><strong>NoIdea</strong> – a sarcastic AI Git CLI assistant that makes your commits smarter (or funnier)</li>
-    <li><strong>Crypto dashboards</strong> – real-time liquidation visualizations and market anomaly detection</li>
-    <li>Experimental tools for automation, self-hosting, and data exploration</li>
-  </ul>
-  <p>I’m self-taught, obsessed with fast iteration, and I believe the best way to learn is by building.</p>
 </div>
+
+<p align="center">
+Yo — I’m Robin, a 23-year-old indie dev, sysadmin, and crypto data nerd from Germany.  
+I build tools at the intersection of trading, terminal UX, and automation.
+</p>
+
+<p align="center">
+Most of my work is written in Go or Python. I like creating fast, minimal tools that solve real problems and spark new ideas.
+</p>
+
+<div align="center">
+  <strong>Projects I’m currently working on:</strong>
+</div>
+
+<ul>
+  <li><strong>NoIdea</strong> – a sarcastic AI Git CLI assistant that makes your commits smarter (or funnier)</li>
+  <li><strong>Crypto dashboards</strong> – real-time liquidation visualizations & anomaly tracking</li>
+  <li>Experimental tools for automation, self-hosting, and data exploration</li>
+</ul>
+
+<p align="center">
+I'm self-taught, obsessed with fast iteration, and I believe the best way to learn is by building.
+</p>
 
 ---
 
@@ -25,13 +39,13 @@
   <h2>🔗 Connect with Me</h2>
   <p>Wanna chat devtools, markets, or ship something weird and cool?</p>
   <a href="https://de.linkedin.com/in/bohrer-robin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/accursedgalaxy">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://ko-fi.com/accursedgalaxy">
-    <img src="https://img.shields.io/badge/Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"/>
+    <img src="https://img.shields.io/badge/Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
   </a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=accursedgalaxy&style=for-the-badge" alt="Profile views" />
