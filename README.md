@@ -43,7 +43,6 @@ Most of my work is written in Go or Python. I like shipping fast, building fun i
       <img src="https://img.shields.io/badge/Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
     </a>
   </div>
-  <p>I'm always looking for interesting projects to collaborate on or discuss.<br>Don't hesitate to reach out, especially if you're into dev tooling or crypto!</p>
   <img src="https://komarev.com/ghpvc/?username=accursedgalaxy&style=for-the-badge" alt="Profile views" />
 </div>
 
@@ -58,7 +57,6 @@ Most of my work is written in Go or Python. I like shipping fast, building fun i
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
   </div>
-  <p>Python for rapid prototyping, Go for performance-critical services,<br>Bash for automation, and Lua for customizing my development environment.</p>
 </div>
 
 ---
@@ -75,10 +73,6 @@ Most of my work is written in Go or Python. I like shipping fast, building fun i
     <img src="https://img.shields.io/badge/Viper-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   </div>
-  <p>
-    Pandas & TA-Lib for financial data analysis, CCXT for crypto exchange integrations,<br>
-    SQLAlchemy for database interactions, and Cobra/Viper for building robust CLI applications.
-  </p>
 </div>
 
 ---
