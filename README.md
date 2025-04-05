@@ -11,33 +11,29 @@
 </div>
 
 <p align="center">
-Yo — I’m Robin, a 23-year-old indie dev, sysadmin, and crypto data nerd from Germany.  
-I build tools at the intersection of trading, terminal UX, and automation.
+Yo — I’m Robin, a 23-year-old indie dev, sysadmin & crypto data nerd from Germany.  
+I build tools at the intersection of automation, terminal UX, and trading workflows.
 </p>
 
 <p align="center">
-Most of my work is written in Go or Python. I like creating fast, minimal tools that solve real problems and spark new ideas.
+Most of my work is written in Go or Python. I like shipping fast, building fun ideas, and learning by doing.
 </p>
 
 <div align="center">
-  <strong>Projects I’m currently working on:</strong>
+  <strong>Projects I’m currently building:</strong>
 </div>
 
 <ul>
-  <li><strong>NoIdea</strong> – a sarcastic AI Git CLI assistant that makes your commits smarter (or funnier)</li>
-  <li><strong>Crypto dashboards</strong> – real-time liquidation visualizations & anomaly tracking</li>
-  <li>Experimental tools for automation, self-hosting, and data exploration</li>
+  <li><strong>NoIdea</strong> – AI Git CLI assistant that auto-suggests commits, roasts your history, and integrates with OpenAI/xAI</li>
+  <li><strong>Crypto Dashboards</strong> – liquidation data visualizers, anomaly trackers & alerting tools for traders</li>
+  <li><strong>Devtools & terminal add-ons</strong> – bash helpers, Git utilities, keyboard macros, and weird scripts</li>
 </ul>
-
-<p align="center">
-I'm self-taught, obsessed with fast iteration, and I believe the best way to learn is by building.
-</p>
 
 ---
 
 <div align="center">
   <h2>🔗 Connect with Me</h2>
-  <p>Wanna chat devtools, markets, or ship something weird and cool?</p>
+  <p>Reach out for collabs, nerdy convos, or feedback:</p>
   <a href="https://de.linkedin.com/in/bohrer-robin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -54,7 +50,7 @@ I'm self-taught, obsessed with fast iteration, and I believe the best way to lea
 ---
 
 <div align="center">
-  <h2>🛠️ Languages I Use</h2>
+  <h2>💻 Languages & Tools</h2>
 </div>
 
 <p align="center">
@@ -67,23 +63,26 @@ I'm self-taught, obsessed with fast iteration, and I believe the best way to lea
 ---
 
 <div align="center">
-  <h2>🧰 Frameworks & Tools</h2>
+  <h2>🧰 Frameworks & Libs</h2>
 </div>
 
 <p align="center">
-  <!-- Python -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/CCXT-000000?style=for-the-badge&logo=ccxt&logoColor=white"/>
   <img src="https://img.shields.io/badge/TA--Lib-0057A7?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-00618F?style=for-the-badge&logo=python&logoColor=white"/>
-  <!-- Go -->
   <img src="https://img.shields.io/badge/Cobra-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Viper-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <!-- Other -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
+---
+
+<div align="center">
+  <h2>🧬 Contribution Grid</h2>
+  <img src="https://github.com/accursedgalaxy/accursedgalaxy/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark"/>
+  <img src="https://github.com/accursedgalaxy/accursedgalaxy/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light"/>
+</div>
 
 ---
 
