@@ -1,24 +1,31 @@
 <div align="center">
-  <h1><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&color=00FFAA&center=true&vCenter=true&width=435&lines=Hey..+I'm..;Accursed+Galaxy..;Welcome+to+my+GitHub..;" alt="Typing SVG"/></h1>
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=33FF33&center=true&vCenter=true&width=800&lines=curl+accursedgalaxy.dev;Running+%22noidea+--dev%22...;Loading+CLI+tools%2C+dashboards%2C+vibes...;Welcome+to+my+GitHub+space." alt="Typing SVG">
+  </h1>
 </div>
+
+---
 
 <div align="center">
   <h2>🧠 About Me</h2>
-  <p>Hey! I'm Robin — a self-taught developer and crypto enthusiast from Germany.</p>
-  <p>I build open-source tools in Go and Python to make developers' lives easier, automate stuff, and explore how code can shape markets, workflows, and memes.</p>
-  <p>From hacking together CLI tools to visualizing market data for traders — I learn by building and share what I create.</p>
+  <p>Yo — I’m Robin, a 23-year-old indie dev, system admin & crypto data nerd from Germany.</p>
+  <p>I’m currently building tools that sit at the intersection of trading, terminal UX, and automation. Most of my work happens in Go & Python, and I love crafting tiny things that punch above their weight.</p>
+  <p>Projects I’m working on include:</p>
+  <ul align="left">
+    <li><strong>NoIdea</strong> – a sarcastic AI Git CLI assistant that makes your commits smarter (or funnier)</li>
+    <li><strong>Crypto dashboards</strong> – real-time liquidation visualizations and market anomaly detection</li>
+    <li>Experimental tools for automation, self-hosting, and data exploration</li>
+  </ul>
+  <p>I’m self-taught, obsessed with fast iteration, and I believe the best way to learn is by building.</p>
 </div>
 
-<br/>
+---
 
 <div align="center">
   <h2>🔗 Connect with Me</h2>
-  <p>Wanna talk devtools, markets, or collab on something cool? Hit me up:</p>
+  <p>Wanna chat devtools, markets, or ship something weird and cool?</p>
   <a href="https://de.linkedin.com/in/bohrer-robin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://linktr.ee/accursedgalaxy">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
   </a>
   <a href="https://github.com/accursedgalaxy">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -50,14 +57,17 @@
 </div>
 
 <p align="center">
+  <!-- Python -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/CCXT-000000?style=for-the-badge&logo=ccxt&logoColor=white"/>
   <img src="https://img.shields.io/badge/TA--Lib-0057A7?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-00618F?style=for-the-badge&logo=python&logoColor=white"/>
+  <!-- Go -->
   <img src="https://img.shields.io/badge/Cobra-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Viper-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <!-- Other -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
