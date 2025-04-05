@@ -2,7 +2,6 @@
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=33FF33&center=true&vCenter=true&width=800&lines=curl+accursedgalaxy.dev;Running+%22noidea+--dev%22...;Loading+CLI+tools%2C+dashboards%2C+vibes...;Welcome+to+my+GitHub+space." alt="Typing SVG">
   </p>
-  <hr width="70%">
 </div>
 
 <div align="center">
