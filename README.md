@@ -80,7 +80,7 @@ Most of my work is written in Go or Python. I like shipping fast, building fun i
 
 <div align="center">
   <h2>🧬 Contribution Grid</h2>
-  <img src="https://github.com/accursedgalaxy/accursedgalaxy/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark"/>
+  <img src="https://github.com/accursedgalaxy/accursedgalaxy/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="GitHub Snake Dark"/>
   <img src="https://github.com/accursedgalaxy/accursedgalaxy/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light"/>
 </div>
 
