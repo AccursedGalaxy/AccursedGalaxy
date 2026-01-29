@@ -9,12 +9,12 @@
 </div>
 
 <p align="center">
-Yo — I'm Robin, a 23-year-old indie dev, sysadmin & crypto data nerd from Germany.  
-I build tools at the intersection of automation, terminal UX, and trading workflows.
+Hey — I'm Robin, a 24-year-old developer from Germany building tools for devs and traders.
+I focus on CLI utilities, Git workflows, blockchain monitoring, and crypto analytics.
 </p>
 
 <p align="center">
-Most of my work is written in Go or Python. I like shipping fast, building fun ideas, and learning by doing.
+Most of my work is written in Go and Python. I like shipping fast, automating everything, and building things that solve real problems.
 </p>
 
 <div align="left">
@@ -22,9 +22,11 @@ Most of my work is written in Go or Python. I like shipping fast, building fun i
 </div>
 
 <ul>
-  <li><strong>NoIdea</strong> – AI Git CLI assistant that auto-suggests commits, roasts your history, and integrates with OpenAI/xAI</li>
-  <li><strong>Crypto Dashboards</strong> – liquidation data visualizers, anomaly trackers & alerting tools for traders</li>
-  <li><strong>Devtools & terminal add-ons</strong> – bash helpers, Git utilities, keyboard macros, and weird scripts</li>
+  <li><strong><a href="https://github.com/AccursedGalaxy/noidea">noidea</a></strong> – AI-powered Git assistant that generates conventional commit messages, analyzes commit history, and provides feedback with personality</li>
+  <li><strong><a href="https://github.com/AccursedGalaxy/streakode">streakode</a></strong> – Advanced Git analytics & search CLI with lightning-fast fuzzy search to explore commit history and track coding patterns</li>
+  <li><strong><a href="https://github.com/AccursedGalaxy/Insider-Monitor">Insider-Monitor</a></strong> – Solana Wallet Monitor that tracks wallet activities, detects insider trading & balance changes with real-time alerts</li>
+  <li><strong><a href="https://github.com/AccursedGalaxy/wallfetch">wallfetch</a></strong> – CLI Wallpaper Fetcher to effortlessly discover, download, and manage stunning wallpapers from multiple sources</li>
+  <li><strong><a href="https://github.com/AccursedGalaxy/work-dashboard">work-dashboard</a></strong> – Quick access dashboard for daily links, pages, and web search with go/ intranet integration</li>
 </ul>
 
 ---
