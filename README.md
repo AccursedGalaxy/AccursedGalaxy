@@ -5,9 +5,7 @@
   </p>
 </div>
 
-## 🧠 About Me
-
-Hey — I'm Robin, a 24-year-old developer from Germany building tools for devs and traders.
+Developer from Germany building tools for devs and traders.
 I focus on CLI utilities, Git workflows, blockchain monitoring, and crypto analytics.
 
 Most of my work is written in Go and Python. I like shipping fast, automating everything, and building things that solve real problems.
