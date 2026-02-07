@@ -59,7 +59,7 @@ Most of my work is written in Go and Python. I like shipping fast, automating ev
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=accursedgalaxy&theme=merko" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=accursedgalaxy&theme=merko" alt="GitHub Streak" />
 </p>
 
 <p align="center">
